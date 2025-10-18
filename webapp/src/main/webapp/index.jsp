@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Heloo All Jahnavi here!!!</h1>
+    <h1>Heloo All Pratikshya here!!!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
