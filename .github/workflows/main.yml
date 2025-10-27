@@ -55,5 +55,5 @@ jobs:
         with:
           task-definition: ${{ steps.render-task.outputs.task-definition }}
           service: ${{ secrets.ECS_SERVICE }}
-          cluster: pratikshyap
+          cluster: Pratikshyap
           wait-for-service-stability: true
