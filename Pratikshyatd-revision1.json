@@ -38,7 +38,6 @@
         }
     ],
     "cpu": "1024",
-    "enableFaultInjection": false,
     "executionRoleArn": "arn:aws:iam::254539707241:role/ecsTaskExecutionRole",
     "family": "Pratikshyatd",
     "memory": "3072",
